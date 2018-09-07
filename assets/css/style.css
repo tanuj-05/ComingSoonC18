@@ -110,7 +110,7 @@ a:focus{
 	text-align:center;
 	text-transform:uppercase;
 	font-weight:300;
-	font-size:80px;
+	font-size:40px;
 }
 .section-description{
 	font-weight:300;
@@ -465,7 +465,7 @@ a:focus{
 .site-title{
 	text-align:center;
 	font-size:66px;
-	font-family:'Pacifico';
+	font-family:'Roboto';
 	margin:0 0 50px 0;
 	padding-bottom:50px;
 	position:relative;
